@@ -8,7 +8,7 @@ namespace ACO_Optimizer.Models
         /// If false, map updates are skipped for faster batch simulations/testing.
         /// Result display and saving still work normally.
         /// </summary>
-        public bool EnableVisualMapUpdate { get; set; } = false;
+        public bool EnableVisualMapUpdate { get; set; } = true;
 
 
 
