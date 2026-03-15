@@ -1,0 +1,646 @@
+[
+  {
+    "Id": "S1",
+    "Name": "Warszawa",
+    "Latitude": 52.2297,
+    "Longitude": 21.0122,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 14.18,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 12.7,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 22
+    }
+  },
+  {
+    "Id": "S2",
+    "Name": "Kraków",
+    "Latitude": 50.0647,
+    "Longitude": 19.945,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 7.61,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 45,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 22
+    }
+  },
+  {
+    "Id": "S3",
+    "Name": "Łódź",
+    "Latitude": 51.7592,
+    "Longitude": 19.455,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 1.7,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 3,
+      "CCS (Type 2)": 40,
+      "CHAdeMO": 40,
+      "Type 2 (Tethered Connector)": 40
+    }
+  },
+  {
+    "Id": "S4",
+    "Name": "Wrocław",
+    "Latitude": 51.1079,
+    "Longitude": 17.0385,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 8.28,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 32.6
+    }
+  },
+  {
+    "Id": "S5",
+    "Name": "Poznań",
+    "Latitude": 52.4064,
+    "Longitude": 16.9252,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 11.72,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 33
+    }
+  },
+  {
+    "Id": "S6",
+    "Name": "Gdańsk",
+    "Latitude": 54.352,
+    "Longitude": 18.6466,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 0.9,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 60,
+      "CHAdeMO": 60,
+      "Type 2 (Tethered Connector)": 32.5
+    }
+  },
+  {
+    "Id": "S7",
+    "Name": "Szczecin",
+    "Latitude": 53.4285,
+    "Longitude": 14.5528,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 7.16,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50
+    }
+  },
+  {
+    "Id": "S8",
+    "Name": "Bydgoszcz",
+    "Latitude": 53.1235,
+    "Longitude": 18.0084,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 12.33,
+    "ChargerTypes": {
+      "CHAdeMO": 50,
+      "Type 2 (Socket Only)": 22
+    }
+  },
+  {
+    "Id": "S9",
+    "Name": "Lublin",
+    "Latitude": 51.2465,
+    "Longitude": 22.5684,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 10.84,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 43
+    }
+  },
+  {
+    "Id": "S10",
+    "Name": "Białystok",
+    "Latitude": 53.1325,
+    "Longitude": 23.1688,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 2.87,
+    "ChargerTypes": {
+      "Type 2 (Tethered Connector)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 40
+    }
+  },
+  {
+    "Id": "S11",
+    "Name": "Katowice",
+    "Latitude": 50.2649,
+    "Longitude": 19.0238,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 14.83,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 38
+    }
+  },
+  {
+    "Id": "S12",
+    "Name": "Gdynia",
+    "Latitude": 54.5189,
+    "Longitude": 18.5305,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 10.58,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 47,
+      "Type 2 (Tethered Connector)": 32.5
+    }
+  },
+  {
+    "Id": "S13",
+    "Name": "Częstochowa",
+    "Latitude": 50.8118,
+    "Longitude": 19.1203,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 4.27,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 43
+    }
+  },
+  {
+    "Id": "S14",
+    "Name": "Radom",
+    "Latitude": 51.4027,
+    "Longitude": 21.1471,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 14.67,
+    "ChargerTypes": {
+      "Type 2 (Tethered Connector)": 42,
+      "CCS (Type 2)": 45,
+      "CHAdeMO": 45
+    }
+  },
+  {
+    "Id": "S15",
+    "Name": "Toruń",
+    "Latitude": 53.0138,
+    "Longitude": 18.5984,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 4.18,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S16",
+    "Name": "Sosnowiec",
+    "Latitude": 50.2863,
+    "Longitude": 19.1041,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 10.2,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 40.5
+    }
+  },
+  {
+    "Id": "S17",
+    "Name": "Rzeszów",
+    "Latitude": 50.0412,
+    "Longitude": 21.9991,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 1.8,
+    "ChargerTypes": {
+      "Type 2 (Tethered Connector)": 43,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50
+    }
+  },
+  {
+    "Id": "S18",
+    "Name": "Gliwice",
+    "Latitude": 50.2945,
+    "Longitude": 18.6714,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 0.09,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 43
+    }
+  },
+  {
+    "Id": "S19",
+    "Name": "Zabrze",
+    "Latitude": 50.3249,
+    "Longitude": 18.7857,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 12.99,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S20",
+    "Name": "Olsztyn",
+    "Latitude": 53.7784,
+    "Longitude": 20.4801,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 10.82,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S21",
+    "Name": "Bielsko-Biała",
+    "Latitude": 49.8224,
+    "Longitude": 19.044,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 9.13,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 43,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 32.5
+    }
+  },
+  {
+    "Id": "S22",
+    "Name": "Kielce",
+    "Latitude": 50.8661,
+    "Longitude": 20.6286,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 0.92,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 25,
+      "Type 2 (Tethered Connector)": 7
+    }
+  },
+  {
+    "Id": "S23",
+    "Name": "Rybnik",
+    "Latitude": 50.0971,
+    "Longitude": 18.5418,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 1.08,
+    "ChargerTypes": {
+      "Type 2 (Tethered Connector)": 43,
+      "CCS (Type 2)": 100,
+      "CHAdeMO": 50
+    }
+  },
+  {
+    "Id": "S24",
+    "Name": "Elbląg",
+    "Latitude": 54.1522,
+    "Longitude": 19.4088,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 2.06,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22
+    }
+  },
+  {
+    "Id": "S25",
+    "Name": "Opole",
+    "Latitude": 50.6751,
+    "Longitude": 17.9213,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 1.42,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50
+    }
+  },
+  {
+    "Id": "S26",
+    "Name": "Gorzów Wielkopolski",
+    "Latitude": 52.7368,
+    "Longitude": 15.2288,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 5.32,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 43.5
+    }
+  },
+  {
+    "Id": "S27",
+    "Name": "Dąbrowa Górnicza",
+    "Latitude": 50.3216,
+    "Longitude": 19.2098,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 12.95,
+    "ChargerTypes": {
+      "Type 2 (Tethered Connector)": 43,
+      "CCS (Type 2)": 100,
+      "CHAdeMO": 50
+    }
+  },
+  {
+    "Id": "S28",
+    "Name": "Płock",
+    "Latitude": 52.5468,
+    "Longitude": 19.7064,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 9.21,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22
+    }
+  },
+  {
+    "Id": "S29",
+    "Name": "Wałbrzych",
+    "Latitude": 50.7706,
+    "Longitude": 16.2843,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 5.44,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S30",
+    "Name": "Zielona Góra",
+    "Latitude": 51.9356,
+    "Longitude": 15.5062,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 10,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22.1,
+      "CCS (Type 2)": 45,
+      "CHAdeMO": 45,
+      "Type 2 (Tethered Connector)": 43
+    }
+  },
+  {
+    "Id": "S31",
+    "Name": "Tarnów",
+    "Latitude": 50.0121,
+    "Longitude": 20.9858,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 3.87,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 45,
+      "CHAdeMO": 45,
+      "Type 2 (Tethered Connector)": 22
+    }
+  },
+  {
+    "Id": "S32",
+    "Name": "Chorzów",
+    "Latitude": 50.3058,
+    "Longitude": 18.9742,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 14.33,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 43
+    }
+  },
+  {
+    "Id": "S33",
+    "Name": "Koszalin",
+    "Latitude": 54.194,
+    "Longitude": 16.1722,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 11.62,
+    "ChargerTypes": {
+      "CCS (Type 2)": 350
+    }
+  },
+  {
+    "Id": "S34",
+    "Name": "Legnica",
+    "Latitude": 51.207,
+    "Longitude": 16.155,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 11.25,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 22.2
+    }
+  },
+  {
+    "Id": "S35",
+    "Name": "Grudziądz",
+    "Latitude": 53.4844,
+    "Longitude": 18.7536,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 3.49,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 44,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50
+    }
+  },
+  {
+    "Id": "S36",
+    "Name": "Słupsk",
+    "Latitude": 54.4641,
+    "Longitude": 17.0287,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 13.94,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S37",
+    "Name": "Jaworzno",
+    "Latitude": 50.2053,
+    "Longitude": 19.2746,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 2.68,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S38",
+    "Name": "Jastrzębie-Zdrój",
+    "Latitude": 49.9556,
+    "Longitude": 18.5996,
+    "IsAvailable": true,
+    "IsPricedCharger": true,
+    "QueueTimeMin": 13.44,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S39",
+    "Name": "Nowy Sącz",
+    "Latitude": 49.6218,
+    "Longitude": 20.697,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 9.88,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S40",
+    "Name": "Piotrków Trybunalski",
+    "Latitude": 51.4052,
+    "Longitude": 19.7034,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 9.14,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S41",
+    "Name": "Inowrocław",
+    "Latitude": 52.7974,
+    "Longitude": 18.2636,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 12.18,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S42",
+    "Name": "Lubin",
+    "Latitude": 51.4006,
+    "Longitude": 16.2006,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 0.98,
+    "ChargerTypes": {
+      "Type 2 (Socket Only)": 22,
+      "CCS (Type 2)": 50,
+      "CHAdeMO": 50,
+      "Type 2 (Tethered Connector)": 22
+    }
+  },
+  {
+    "Id": "S43",
+    "Name": "Ostrołęka",
+    "Latitude": 53.0862,
+    "Longitude": 21.5756,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 1.38,
+    "ChargerTypes": { }
+  },
+  {
+    "Id": "S44",
+    "Name": "Siemianowice Śląskie",
+    "Latitude": 50.3278,
+    "Longitude": 19.0296,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 1.81,
+    "ChargerTypes": { }
+  },
+  {
+    "Id": "S45",
+    "Name": "Stargard",
+    "Latitude": 53.3369,
+    "Longitude": 15.0499,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 11.95,
+    "ChargerTypes": { }
+  },
+  {
+    "Id": "S46",
+    "Name": "Suwałki",
+    "Latitude": 54.099,
+    "Longitude": 22.9336,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 5.43,
+    "ChargerTypes": {
+      "Type 2 (Tethered Connector)": 22,
+      "CCS (Type 2)": 40,
+      "CHAdeMO": 40
+    }
+  },
+  {
+    "Id": "S47",
+    "Name": "Gniezno",
+    "Latitude": 52.5342,
+    "Longitude": 17.5826,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 2.7,
+    "ChargerTypes": { }
+  },
+  {
+    "Id": "S48",
+    "Name": "Mysłowice",
+    "Latitude": 50.2074,
+    "Longitude": 19.1393,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 7.76,
+    "ChargerTypes": { }
+  },
+  {
+    "Id": "S49",
+    "Name": "Otwock",
+    "Latitude": 52.1058,
+    "Longitude": 21.2613,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 11.92,
+    "ChargerTypes": {}
+  },
+  {
+    "Id": "S50",
+    "Name": "Świdnica",
+    "Latitude": 50.8438,
+    "Longitude": 16.4886,
+    "IsAvailable": true,
+    "IsPricedCharger": false,
+    "QueueTimeMin": 9.63,
+    "ChargerTypes": {}
+  }
+]
